@@ -1,7 +1,4 @@
-## Hi there 👋
-
-<!--
-**Ziad-Bashir/Ziad-Bashir** is<h1 align="center">Hi there, I'm Ziad Bashir 👋</h1>
+<h1 align="center">Hi there, I'm Ziad Bashir 👋</h1>
 <h3 align="center">Software Engineering Student | CS Enthusiast | Problem Solver</h3>
 
 <p align="center">
@@ -11,16 +8,32 @@
 
 <p align="center">
   <!-- Social Links -->
-  <a href="https://www.linkedin.com/in/ziad-bashir"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:Ziadbashirforbusiness@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://www.instagram.com/ziad_bashir11"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://www.linkedin.com/in/ziad-bashir"><img src="https://simpleicons.org/icons/linkedin.svg" alt="LinkedIn" width="30" /></a>
+  <a href="mailto:Ziadbashirforbusiness@gmail.com"><img src="https://simpleicons.org/icons/gmail.svg" alt="Email" width="30" /></a>
+  <a href="https://www.instagram.com/ziad_bashir11"><img src="https://simpleicons.org/icons/instagram.svg" alt="Instagram" width="30" /></a>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I am a **Software Engineering student** at the Egyptian Russian University (ERU). I firmly believe in building an ironclad, ground-up foundation in Computer Science (CS) before rushing into advanced frameworks. My approach is rooted in hands-on practice, logical problem-solving, and writing clean, structured code.
+I am a **Software Engineering student** at the Egyptian Russian University (ERU), driven by a profound dedication to computational logic, clean architecture, and data-driven decision-making. I believe that true engineering growth extends far beyond the university classroom—it happens in the IDE, during debugging sessions, and within the communities we build.
+
+**🧱 Forging an Ironclad Foundation:**
+My primary focus is on building a commanding technical base. I am diving deep into **C++**, prioritizing memory management, procedural logic, and algorithmic efficiency. To push my limits, I am on an ambitious problem-solving journey, actively transitioning my training from Codewars to competitive programming on Codeforces.
+
+**⚙️ From Concept to Reality:**
+Theoretical knowledge is only half the equation. I love turning complex concepts into functional reality. My hands-on experience ranges from building raw C++ console applications to exploring the AI landscape, including engineering an interactive chatbot powered by IBM watsonx Assistant.
+
+**🤝 Community & Leadership:**
+I firmly believe that tech is a team sport. I am deeply invested in fostering environments where developers can grow and learn together:
+- **Community Builder:** Founder and manager of large-scale tech communities (including "AI Groups 2025" and "AI SUMMARY 2025"), collaborating with senior mentors to support and guide my peers.
+- **Campus Leader:** Active member of the IEEE Projects Committee, event organizer for the Huawei Academy, and a multi-disciplinary contributor across PR and Marketing for TEDxERU.
+
+**🔴 The Human Element:**
+Beyond the screen, I am a dedicated Liverpool FC fan. I view the discipline, high-energy effort, and collective teamwork of the Jürgen Klopp era as the ultimate blueprint for professional integrity and collaborative success in the tech industry. Whether it's discussing software architecture, community building, or the weekend's big match, I am always open to meaningful connections!
+
+---
 
 ## 🎯 Core CS Foundation & Problem Solving
 
@@ -35,11 +48,7 @@ I am a **Software Engineering student** at the Egyptian Russian University (ERU)
 ## 🛠️ Languages & Tools
 
 <p align="left">
-  <!-- Tech Stack Badges -->
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
-  <img src="https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://skillicons.dev/icons?i=cpp,notion,vscode,git" alt="My Skills" />
 </p>
 
 ---
@@ -47,13 +56,9 @@ I am a **Software Engineering student** at the Egyptian Russian University (ERU)
 ## 📊 GitHub Stats
 
 <p align="center">
-  <!-- GitHub Stats Card -->
   <img src="https://github-readme-stats.vercel.app/api?username=Ziad-Bashir&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <!-- Top Languages Card -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ziad-Bashir&layout=compact&theme=radical" alt="Top Languages" />
-</p> a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
+</p>
