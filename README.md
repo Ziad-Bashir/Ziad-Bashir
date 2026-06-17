@@ -1,73 +1,52 @@
-<h1 align="center">Software Engineering Student | CS Enthusiast</h1>
-
+<h1 align="center">Software Engineering Student</h1>
 <p align="center">
-  <a href="https://github.com/Ziad-Bashir"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" alt="GitHub" /></a>
-  <a href="https://www.linkedin.com/in/ziad-bashir"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://www.instagram.com/ziad_bashir11"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <b>CS Enthusiast | Problem Solver | Future Software Engineer</b>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ziad-Bashir&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <a href="https://github.com/Ziad-Bashir"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/ziad-bashir"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.instagram.com/ziad_bashir11"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" /></a>
 </p>
 
 ---
 
 ## 🧭 Table of Contents
 <p align="center">
-  <a href="#about-me">👤 About Me</a> &nbsp; | &nbsp; 
-  <a href="#focus-areas">🎯 Focus Areas</a> &nbsp; | &nbsp; 
-  <a href="#languages--tools">🛠️ Languages & Tools</a> &nbsp; | &nbsp; 
+  <a href="#about-me">👤 About Me</a> &nbsp;•&nbsp; 
+  <a href="#focus-areas">🎯 Focus Areas</a> &nbsp;•&nbsp; 
+  <a href="#languages--tools">🛠️ Languages & Tools</a> &nbsp;•&nbsp; 
   <a href="#github-stats">📊 GitHub Stats</a>
 </p>
 
 ---
 
 ## 👤 About Me
-I am a **Software Engineering student** at the Egyptian Russian University (ERU). My journey is defined by a commitment to building a strong technical foundation and solving complex problems. I am a firm believer in the power of hands-on practice, algorithmic thinking, and collaborative community building.
+I am a Software Engineering student at the Egyptian Russian University (ERU). My focus is on building an ironclad Computer Science foundation, bridging the gap between theoretical algorithmic logic and real-world software applications.
 
 ## 🎯 Focus Areas
-- 🧱 **Build Foundation:** Mastering Computer Science fundamentals.
-- 🧠 **Problem Solving:** Daily practice with algorithmic challenges.
-- 💻 **Software Engineering:** Developing scalable and clean applications.
-- 📱 **Mobile & Web Development:** Creating impactful digital experiences.
-
----
+- 🏗️ **Build Foundation:** Deep dive into C++ and Data Structures.
+- 🧩 **Problem Solving:** Daily competitive programming (Codeforces & LeetCode).
+- 💻 **Software Engineering:** Architectural design and clean code practices.
+- 🌐 **Web & Mobile:** Building functional, user-centric applications.
 
 ## 🛠️ Languages & Tools
 
-### Programming Languages
-<p align="left">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-</p>
+### Programming
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
 
 ### Web Technologies
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
-</p>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
 
-### Platforms
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/CodeWars-B1361E?style=for-the-badge&logo=codewars&logoColor=white" alt="CodeWars" />
-  <img src="https://img.shields.io/badge/VS%20Code-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
-  <img src="https://img.shields.io/badge/Codeforces-444444?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
-</p>
-
----
+### Development Platforms
+<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/VS_Code-0078D7?style=flat&logo=visual-studio-code&logoColor=white" />
+<img src="https://img.shields.io/badge/CodeWars-B1361E?style=flat&logo=codewars&logoColor=white" />
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white" />
+<img src="https://img.shields.io/badge/Codeforces-444444?style=flat&logo=codeforces&logoColor=white" />
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ziad-Bashir&show_icons=true&theme=radical" alt="Ziad-Bashir's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ziad-Bashir&show_icons=true&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ziad-Bashir&layout=compact&theme=radical&hide_border=true" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ziad-Bashir&layout=compact&theme=radical" alt="Most Used Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ziad-Bashir&theme=radical" alt="GitHub Streak" />
-</p>
-
----
