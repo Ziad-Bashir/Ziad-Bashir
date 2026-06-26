@@ -82,11 +82,13 @@ Ziad Bashir is a student at the Egyptian Russian University (ERU) with a profoun
 
 ### 🏆 Top Repositories
 
+### 🏆 Top Repositories
+
 <div align="left">
   <a href="https://github.com/Ziad-Bashir/CPP-Projects">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ziad-Bashir&repo=CPP-Projects&title_color=0891b2&text_color=f97316&icon_color=ef4444&bg_color=1c1917&hide_border=true&locale=en" alt="CPP Projects" />
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ziad-Bashir&repo=CPP-Projects&title_color=0891b2&text_color=f97316&icon_color=ef4444&bg_color=1c1917&hide_border=true&locale=en&v=1" alt="CPP Projects" />
   </a>
   <a href="https://github.com/Ziad-Bashir/Problem-Solving-CPP">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ziad-Bashir&repo=Problem-Solving-CPP&title_color=0891b2&text_color=f97316&icon_color=ef4444&bg_color=1c1917&hide_border=true&locale=en" alt="Problem Solving CPP" />
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ziad-Bashir&repo=Problem-Solving-CPP&title_color=0891b2&text_color=f97316&icon_color=ef4444&bg_color=1c1917&hide_border=true&locale=en&v=1" alt="Problem Solving CPP" />
   </a>
 </div>
