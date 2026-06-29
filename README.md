@@ -24,6 +24,7 @@ Ziad Bashir is a student at the Egyptian Russian University (ERU) with a profoun
 - ✉️ You can contact me at **[Ziadbashirforbusiness@gmail.com](mailto:Ziadbashirforbusiness@gmail.com)**
 - 🧠 **I'm currently learning:** Solidifying my core programming skills by mastering C++ as my primary language, progressing through Object-Oriented Programming (OOP) and Data Structures & Algorithms (DSA). This structured path lays the groundwork for my upcoming deep dives into Operating Systems, Databases, and Computer Networks.
 - 👥 **I'm open to collaborating on:** Foundational C++ projects, logic-building exercises, and algorithmic problem-solving.
+- 💼 **Internships:** Actively seeking local, international, and remote internship opportunities to apply my software engineering foundations in a real-world environment.
 - ⚡ **Problem Solving Progression:** I follow a dedicated progression to sharpen my logic: practicing on CodeWars, advancing through LeetCode, and steadily preparing for competitive programming on Codeforces.
 
 ### 💻 Tech Stack
