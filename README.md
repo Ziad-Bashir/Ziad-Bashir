@@ -69,28 +69,26 @@ Ziad Bashir is a student at the Egyptian Russian University (ERU) with a profoun
 
 <p align="left">
   <a href="https://github.com/Ziad-Bashir">
-    <img src="https://github-readme-stats.vercel.app/api?username=Ziad-Bashir&show_icons=true&count_private=true&title_color=0891b2&text_color=f97316&icon_color=ef4444&bg_color=1c1917&hide_border=true" alt="Ziad Bashir's GitHub stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Ziad-Bashir&show_icons=true&count_private=true&title_color=0891b2&text_color=f97316&icon_color=ef4444&bg_color=1c1917&hide_border=true&v=2" alt="Ziad Bashir's GitHub stats" />
   </a>
   <a href="https://github.com/Ziad-Bashir">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ziad-Bashir&stroke=f97316&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=f97316&currStreakLabel=0891b2&sideNums=f97316&sideLabels=f97316&dates=f97316&hide_border=true" alt="Ziad Bashir's Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ziad-Bashir&stroke=f97316&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=f97316&currStreakLabel=0891b2&sideNums=f97316&sideLabels=f97316&dates=f97316&hide_border=true&v=2" alt="Ziad Bashir's Streak" />
   </a>
 </p>
 
 <p align="left">
   <a href="https://github.com/Ziad-Bashir">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ziad-Bashir&langs_count=10&title_color=0891b2&text_color=f97316&icon_color=ef4444&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ziad-Bashir&langs_count=10&title_color=0891b2&text_color=f97316&icon_color=ef4444&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages&v=2" alt="Top Languages" />
   </a>
 </p>
-
-
 
 ### 🏆 Top Repositories
 
 <div align="left">
   <a href="https://github.com/Ziad-Bashir/CPP-Projects">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ziad-Bashir&repo=CPP-Projects&title_color=0891b2&text_color=f97316&icon_color=ef4444&bg_color=1c1917&hide_border=true&locale=en&v=1" alt="CPP Projects" />
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ziad-Bashir&repo=CPP-Projects&title_color=0891b2&text_color=f97316&icon_color=ef4444&bg_color=1c1917&hide_border=true&locale=en&v=2" alt="CPP Projects" />
   </a>
   <a href="https://github.com/Ziad-Bashir/Problem-Solving-CPP">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ziad-Bashir&repo=Problem-Solving-CPP&title_color=0891b2&text_color=f97316&icon_color=ef4444&bg_color=1c1917&hide_border=true&locale=en&v=1" alt="Problem Solving CPP" />
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ziad-Bashir&repo=Problem-Solving-CPP&title_color=0891b2&text_color=f97316&icon_color=ef4444&bg_color=1c1917&hide_border=true&locale=en&v=2" alt="Problem Solving CPP" />
   </a>
 </div>
