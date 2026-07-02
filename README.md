@@ -30,65 +30,67 @@ Ziad Bashir is a student at the Egyptian Russian University (ERU) with a profoun
 
 ### 💻 Tech Stack
 <p align="left">
-  <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" alt="C++" title="C++" width="36" height="36" /></a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a>
+  <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" alt="C++" title="C++" width="36" height="36" /></a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a>
 </p>
 
 ### 🌐 Socials
-<p align="left"> 
-  <a href="https://github.com/Ziad-Bashir" target="_blank" rel="noreferrer">
-    <picture> 
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> 
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> 
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> 
-    </picture> 
-  </a> 
-  <a href="https://linkedin.com/in/ziad-bashir" target="_blank" rel="noreferrer">
-    <picture> 
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> 
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> 
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> 
-    </picture> 
-  </a> 
-  <a href="https://youtube.com/@TheZiadBashir" target="_blank" rel="noreferrer">
-    <picture> 
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube-dark.svg" /> 
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" /> 
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" alt="YouTube" title="YouTube" /> 
-    </picture> 
-  </a>
+<p align="left"> 
+  <a href="https://github.com/Ziad-Bashir" target="_blank" rel="noreferrer">
+    <picture> 
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> 
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> 
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> 
+    </picture> 
+  </a> 
+  <a href="https://linkedin.com/in/ziad-bashir" target="_blank" rel="noreferrer">
+    <picture> 
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> 
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> 
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> 
+    </picture> 
+  </a> 
+  <a href="https://youtube.com/@TheZiadBashir" target="_blank" rel="noreferrer">
+    <picture> 
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube-dark.svg" /> 
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" /> 
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" alt="YouTube" title="YouTube" /> 
+    </picture> 
+  </a>
 </p>
 
 <a href="https://github.com/Ziad-Bashir" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/github/followers/Ziad-Bashir?logo=github&style=for-the-badge&color=ef4444&labelColor=1c1917" alt="Followers" />
+  <img src="https://img.shields.io/github/followers/Ziad-Bashir?logo=github&style=for-the-badge&color=ef4444&labelColor=1c1917" alt="Followers" />
 </a>
 
 ### 📊 My GitHub Stats
 
 <p align="left">
-  <a href="https://github.com/Ziad-Bashir">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ziad-Bashir&theme=dark" alt="Ziad Bashir's GitHub stats" />
-  </a>
-  <a href="https://github.com/Ziad-Bashir">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ziad-Bashir&stroke=f97316&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=f97316&currStreakLabel=0891b2&sideNums=f97316&sideLabels=f97316&dates=f97316&hide_border=true" alt="Ziad Bashir's Streak" />
-  </a>
+  <a href="https://github.com/Ziad-Bashir">
+    <img src="https://github-readme-stats.vercel.app/api?username=Ziad-Bashir&show_icons=true&count_private=true&title_color=0891b2&text_color=f97316&icon_color=ef4444&bg_color=1c1917&hide_border=true" alt="Ziad Bashir's GitHub stats" />
+  </a>
+  <a href="https://github.com/Ziad-Bashir">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ziad-Bashir&stroke=f97316&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=f97316&currStreakLabel=0891b2&sideNums=f97316&sideLabels=f97316&dates=f97316&hide_border=true" alt="Ziad Bashir's Streak" />
+  </a>
 </p>
 
 <p align="left">
-  <a href="https://github.com/Ziad-Bashir">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ziad-Bashir&theme=dark" alt="Top Languages" />
-  </a>
+  <a href="https://github.com/Ziad-Bashir">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ziad-Bashir&langs_count=10&title_color=0891b2&text_color=f97316&icon_color=ef4444&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
+  </a>
 </p>
+
+
 
 ### 🏆 Top Repositories
 
 <div align="left">
-  <a href="https://github.com/Ziad-Bashir/CPP-Projects">
-    <img width="48%" src="https://opengraph.githubassets.com/1/Ziad-Bashir/CPP-Projects" alt="CPP Projects" />
-  </a>
-  <a href="https://github.com/Ziad-Bashir/Problem-Solving-CPP">
-    <img width="48%" src="https://opengraph.githubassets.com/1/Ziad-Bashir/Problem-Solving-CPP" alt="Problem Solving CPP" />
-  </a>
+  <a href="https://github.com/Ziad-Bashir/CPP-Projects">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ziad-Bashir&repo=CPP-Projects&title_color=0891b2&text_color=f97316&icon_color=ef4444&bg_color=1c1917&hide_border=true&locale=en&v=1" alt="CPP Projects" />
+  </a>
+  <a href="https://github.com/Ziad-Bashir/Problem-Solving-CPP">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ziad-Bashir&repo=Problem-Solving-CPP&title_color=0891b2&text_color=f97316&icon_color=ef4444&bg_color=1c1917&hide_border=true&locale=en&v=1" alt="Problem Solving CPP" />
+  </a>
 </div>
