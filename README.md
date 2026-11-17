@@ -14,7 +14,7 @@ Ziad Bashir is a student at the Egyptian Russian University (ERU) with a profoun
 - Active community builder as an organizer for the Huawei Academy and a member of the IEEE Projects committee.
 - Founder and manager of large-scale WhatsApp tech communities (including "AI Groups 2025" and "AI SUMMARY 2025"), collaborating with senior mentors to support and guide peers.
 
-### ⚽ The Human Element
+###  The Human Element
 - Dedicated Liverpool FC fan, viewing the discipline, high-energy effort, and collective teamwork of the Jürgen Klopp era as the ultimate blueprint for professional integrity in the tech sector.
 - Always open to meaningful connections with mentors and professionals to discuss software engineering, community building, or the weekend's big match.
 
